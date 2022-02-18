@@ -1,0 +1,36 @@
+{
+
+    "clickIncidient": "#new-incident",
+    "selectProvince": "#id_province",
+    "selectDistrict": "#id_district",
+    "selectTehsil": "#id_tehsil",
+    "selectArea": "#area",
+    "selectCategory": "#idcategory",
+    "selectSection": "#incident_idsection",
+    "selectKilled": "#killed",
+    "selectInjured": "#injured",
+    "selectKidnapped": "#kidnapped",
+    "selectSource": "#idsource",
+    "selectOtherSource": "#other_source",
+    "selectOffice": "#idoffice",
+    "selectDetail": "#details",
+    "selectComment": "#comments",
+    "clickSubmit": "#add-incident",
+    "incidientTab":"#incidents-tab",
+
+    "Proviance": "Lake",
+    "District": "Awerial",
+    "Tehsil": "Dor",
+    "Area": "Testing Area",
+    "Category": "Terrorism",
+    "Section": "Education",
+    "Killed": "3",
+    "Injured": "4",
+    "Kidnapped": "5",
+    "Source":"Action Against Hunger",
+    "OtherSource":"new test",
+    "Office":"juba",
+    "Detail":"new test right now",
+    "Comment":"Nothing new only testing"    
+
+}

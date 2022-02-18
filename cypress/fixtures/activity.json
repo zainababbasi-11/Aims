@@ -1,0 +1,49 @@
+{
+    "clickActivity": "#new-activity",
+    "activityType": "#activitytype",
+    "activityTitle": "#title",
+    "activityAim":"#aim",
+    "activityCriticality":"#idprogram_criticality",
+    "activityOutcome":"#id-outcome",
+    "activityOutput":"#id-output",
+    "activityProviance":"#id-province",
+    "activityDistrict":"#id-district",
+    "activitysection":"#activity_idsection",
+    "activitySubType":"#event_subtype",
+    "activityDate":"#event_date",
+    "activityLocation":"#event_location",
+    "activityCleared":"#event_undsscleared",
+    "activityFocalP":"#event_sfp",
+    "activityFocalPoint":"#event_hfp",
+    "activityMedia":"#event_mediabefore",
+    "activityMediaAfter":"#event_mediaafter",
+    "activityAttand":"#event_unattendees",
+    "activityUnAttend":"#event_nonunattendees",
+    "activityAddButton":"#add-activity",
+    "activityTab":"#activities-tab",
+    
+
+
+
+    
+    "title":"Test Activity",
+    "aim":"For Testing",
+    "criticality":"PC4",
+    "outecome":"Outcome 4: Education",
+    "output":"1.3 Child Health",
+    "type":"Event",
+    "Proviance":"Central Equatoria",
+    "district":"juba",
+    "section":"Education",
+    "subType":"External Meeting",
+    "location":"Islamabad Area",
+    "cleared":"no",
+    "focalPerson":"shinwari",
+    "focalPoint":"Islamabad evenu",
+    "mediaBefore":"no",
+    "mediaAfter":"Yes",
+    "attend":"50",
+    "unAttend":"250"
+    
+
+}
